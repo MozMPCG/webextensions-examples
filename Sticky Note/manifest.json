@@ -4,7 +4,7 @@
 	  "version": "1.0",
 	  
 	"description": "Simple sticky notes utility which provides facility to make small notes of any color and every thing.",
-  
+  "homepage_url": "https://github.com/MozMPCG/webextensions-examples/",
   "icons": {
     "128": "icons/logo_128.png",
     "64": "icons/logo_64.png",
