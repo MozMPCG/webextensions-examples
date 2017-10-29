@@ -1,0 +1,21 @@
+{
+      "manifest_version": 2,
+      "name": "Multi links opener",
+      "version": "1.0",
+    
+      "description": "this addon open any number of links separated by comma (',').",
+    
+      "icons": {
+        "48": "icons/chatter.png"
+      },
+
+      "permissions": [
+        "activeTab"
+      ],
+    
+      "browser_action": {
+        "default_icon": "icons/chatter.png",
+        "default_title": "Multi Links opener",
+        "default_popup": "popup/popup.html"
+      }
+}
