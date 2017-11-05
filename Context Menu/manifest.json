@@ -7,11 +7,11 @@
   "description": " Right click to search the selected text or IP ",
 
  "icons": {
-    "48": "data/go48.png"
+    "48": "icons/go48.png"
   },
 
   "browser_action": {
-    "default_icon": "data/go48.png",
+    "default_icon": "icons/go48.png",
     "default_title": "searchonthego",
     "default_popup": "search.html"
   },
