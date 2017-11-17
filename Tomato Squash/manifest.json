@@ -1,0 +1,21 @@
+{
+      "manifest_version": 2,
+      "name": "Tomato Squash",
+      "version": "1.0",
+    
+      "description": "Tomato Squash is a tomato squashing game, squashing the tomato asked for",
+    
+      "icons": {
+        "48": "icons/chatter.png"
+      },
+
+      "permissions": [
+        "activeTab"
+      ],
+    
+      "browser_action": {
+        "default_icon": "icons/chatter.png",
+        "default_title": "Multi Links opener",
+        "default_popup": "popup/guess.html"
+      }
+}
